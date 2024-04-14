@@ -24,11 +24,11 @@
 - :mortar_board: [Full-stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - :mortar_board: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
-  - :mortar_board: [Ruby programming](#i-ruby-programming)
-  - :mortar_board: [Database](#ii-database)
-  - :mortar_board: [Ruby on Rails](#iii-ruby-on-rails)
-  - :mortar_board: [HTML-CSS](#iv-html-css)
-  - :mortar_board: [JavaScript](#v-javascript)
+  - :mortar_board: [Ruby programming](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+  - :mortar_board: [Database](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/databases)
+  - :mortar_board: [Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails)
+  - :mortar_board: [Intermediate HTML-CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
+  - :mortar_board: [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 
 ## Bonus
 <details>
