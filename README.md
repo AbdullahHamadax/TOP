@@ -7,7 +7,18 @@
 
 ### Why I chose TOP?
 
-> I chose TOP for several reasons. The first and foremost is that it's **free**. The second reason is how it sets you up realistically for the market, using **Git & Github, Linux, Terminal, etc**. The third and final reason is that it's not **easy**, many resources out there are very less hand-on. A big part of The Odin Project is about **figuring stuff on your own**.
+> I chose TOP for several reasons. The first and foremost is that it's **free**. The second reason is how it sets you up realistically for the market, using **Git & Github, Linux, Terminal, etc**. The third and final reason is that it's not as **easy** as other resources. A big part of The Odin Project is about **figuring stuff on your own**.
+
+### The purpose of this Repository
+
+> I've created this Repository to show my gratitude for **TOP** and my projects after finishing the **Foundations** course. ( meaning that this repository may contain other projects outside **TOP** )
+
+
+# Progress
+
+![50%](https://progress-bar.dev/50
+
+
 
 # The Odin Project Roadmap & Courses
 
