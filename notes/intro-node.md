@@ -11,15 +11,15 @@ Web developers are suitable for those who like to solve logical problems, build 
 
 **Front-end** is what users can see on a web page such as content, images, navigation bars,... **Front-end developers** use HTML, CSS, JavaScript, and frameworks to present those components effectively, providing a great user experience.
 
-**Back-end** is the component that users cannot see on a web page. It resides on the server and it's responsible for handling requests from Clients like storing, searching for data,... **Back-end developers** are responsible for building the machinery to handle these issues. Ruby, Python, Java are commonly used programming languages for Back-end development.
+**Back-end** is the component that users cannot see on a web page. It resides on the server and it's responsible for handling requests from Clients like storing, searching for data, ... **Back-end developers** are responsible for building the machinery to handle these issues. Ruby, Python, Java are commonly used programming languages for Back-end development.
 
-**Full-stack developers** basically are individuals who can work with both Front-end and Back-end.
+**Full-stack developers** are individuals who can work with both Front-end and Back-end.
 
 ### Tools
 
 Some basic tools commonly used in web programming are:
 
-- Text editor: Atom, VScode, Sublime, VIM,..
+- Text editor: Atom, VScode, Sublime, VIM, ...
 - Command line interface (CLI)
 - Git
 - Google, Stack Overflow
@@ -30,7 +30,7 @@ A mindset open to learning, ready to absorb new things outside one's comfort zon
 
 The learning process involves understanding the theory and applying it in practice. This will help you understand more deeply how they work. Completing projects is a way to ensure you have understood the theory and can apply it in practice.
 
-When stuck, you can solve it by googling (usually most of the problems you encounter have been faced and solved by someone else), taking breaks (this helps you 'reset' your mind and helps your brain tackle the problem from a different perspective), or you can ask someone with experience like teachers, friends, or someone on a forum,...
+When stuck, you can solve it by googling (usually most of the problems you encounter have been faced and solved by someone else), taking breaks (this helps you 'reset' your mind and helps your brain tackle the problem from a different perspective), or you can ask someone with experience like teachers, friends, or someone on a forum, ...
 
 ### Pitfalls to Avoid
 
