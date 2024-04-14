@@ -1,4 +1,4 @@
-Version: Vietnamese
+Version: English
 =======================
 HTML (**H**ypertext **M**arkup **L**anguage) is a markup language for creating hypertext documents, meaning that with HTML, you declare what is to be displayed to the viewer.
 
