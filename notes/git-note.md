@@ -32,7 +32,7 @@ Benefits of git in addition to the general benefits of VCS:
 - `git merge <branch to merge>` merge 2 branches.
 - `git reset HEAD <file name>` remove the file from the stage to avoid committing it. `git reset HEAD~2 # undo last two commits, keep changes`
 
-![cheatsheet](./images/git.avif)
+[cheatsheet](./images/git.avif)
 
 ### Tools, courses and cheatsheets
 
