@@ -12,8 +12,8 @@
 # The Odin Project Roadmap
 
 
-- :mortar_board: [Foundations](#foundations)
-- :mortar_board: [Full-stack Ruby on Rails](#full-stack-ruby-on-rails)
+- :mortar_board: [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- :mortar_board: [Full-stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 
   - :mortar_board: [Ruby programming](#i-ruby-programming)
   - :mortar_board: [Database](#ii-database)
