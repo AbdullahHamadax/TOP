@@ -33,7 +33,7 @@
 ## Bonus
 <details>
 <summary>Useful things for you 💖</summary>
-<h3>Searching</h3>
+<h3>Searching 🔍</h3>
     <li><a href="https://devdocs.io">DevDocs</a> combines multiple API documentations in a fast, organized, and searchable interface.</li>
     <li><a href="https://www.symbolhound.com">SymbolHound</a> is a search engine that doesn't ignore special characters. This means you can easily search for symbols like &, %, and π.</li>
     <li><a href="https://overapi.com/">Collecting all cheatsheet</a></li>
