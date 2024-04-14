@@ -38,6 +38,4 @@ Benefits of git in addition to the general benefits of VCS:
 
 - [Tools search git command](https://gitexplorer.com/)
 
-- [Interactive Git cheatsheet](https://gitsheet.wtf)
-
 - [Git cheatsheet](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F8341g68g1v7y.png)
