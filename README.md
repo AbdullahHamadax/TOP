@@ -35,6 +35,12 @@
   - :mortar_board: [Intermediate HTML-CSS](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/intermediate-html-and-css)
   - :mortar_board: [JavaScript](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript)
 
+
+# Notes
+<a href="https://github.com/AbdullahHamadax/TOP/blob/main/notes/intro-node.md">Introduction note </a><br>
+<a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/git-note.md">Git note </a><br>
+<a href="https://github.com/AbdullahHamadax/TOP/blob/main/notes/html-node.md">HTML note </a><br>
+
 ## Bonus
 <details>
 <summary>Useful things for you 💖</summary>
