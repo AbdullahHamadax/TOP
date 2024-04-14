@@ -37,9 +37,9 @@
 
 
 # Notes
-<a href="https://github.com/AbdullahHamadax/TOP/blob/main/notes/intro-node.md">Introduction note </a><br>
+<a href="https://github.com/AbdullahHamadax/TOP/blob/main/notes/intro-note.md">Introduction note </a><br>
 <a href="https://github.com/david-roark/the-odin-project/blob/master/notes/vi/git-note.md">Git note </a><br>
-<a href="https://github.com/AbdullahHamadax/TOP/blob/main/notes/html-node.md">HTML note </a><br>
+<a href="https://github.com/AbdullahHamadax/TOP/blob/main/notes/html-note.md">HTML note </a><br>
 
 ## Bonus
 <details>
