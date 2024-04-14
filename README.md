@@ -14,7 +14,9 @@
 
 - :mortar_board: [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - :mortar_board: [Full-stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
+- :mortar_board: [Full Stack JavaScript]([https://www.theodinproject.com/paths/full-stack-ruby-on-rails](https://www.theodinproject.com/paths/full-stack-javascript))
 
+### Courses
   - :mortar_board: [Ruby programming](#i-ruby-programming)
   - :mortar_board: [Database](#ii-database)
   - :mortar_board: [Ruby on Rails](#iii-ruby-on-rails)
