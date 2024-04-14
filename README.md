@@ -1,8 +1,6 @@
 # Introduction 
 
-> First, I'd like to thank [David Roark](https://github.com/David-Roark) for the inspiring me to create this repo ( short for repository ). I'll be making drastical changes alongside translating his **notes** ❤️.
-
-
+> First, I'd like to thank [David Roark](https://github.com/David-Roark) for inspiring me to create this repo ( short for repository ). I'll be making drastical changes alongside translating his **notes** ❤️.
 
 
 # The Odin Project
