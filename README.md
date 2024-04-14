@@ -62,7 +62,7 @@
     <li><a href="https://cssreference.io">CSS reference</a></li>
     <li><a href="https://css-tricks.com">Css-tricks</a></li>
     <li><a href="https://ruby-hacking-guide.github.io">Ruby hacking guide</a></li>
-<h3>Problem-Solving 🧠</h3>
+<h3>Problem-Solving & Practice 🧠</h3>
 	<li><a href="https://codewars.com">Codewars</a></li>
 	<li><a href="https://hackerrank.com">Hackerank</a></li>
 	<li><a href="https://edabit.com">Edabit</a></li>
