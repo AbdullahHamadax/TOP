@@ -17,7 +17,7 @@
 # Progress
 
 ### Foundations
-![64%](https://progress-bar.dev/50)
+![64%](https://progress-bar.dev/64)
 
 
 
