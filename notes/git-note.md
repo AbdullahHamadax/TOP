@@ -1,4 +1,4 @@
-Version: Vietnamese
+Version: English
 ==========================
 
 ### Git
