@@ -45,13 +45,13 @@ Some things to avoid and methods to solve them are:
 
 ### Become a web developer
  > To become a Full-stack developer, besides knowledge from the two basic parts of Front-end and Back-end, you need additional knowledge about database (such as SQL, noSQL, cache,...); version control system (such as github, gitlab,... ); using command line, deployment (to servers like AWS, Azure,...); testing, bug fixing, security,...
- > ![](https://roadmap.sh/full-stack)
+ > [](https://roadmap.sh/full-stack)
 
 > **The path to becoming a Front-end developer**
-> ![front-end](https://roadmap.sh/frontend)
+> [front-end](https://roadmap.sh/frontend)
 
 > **The path to becoming a Back-end developer**
-> ![back-end](https://roadmap.sh/backend)
+> [back-end](https://roadmap.sh/backend)
 
 > **The path to becoming a DevOps**
-> ![devops](https://roadmap.sh/devops)
+>[devops](https://roadmap.sh/devops)
