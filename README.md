@@ -16,8 +16,51 @@
 - :mortar_board: [Full-stack Ruby on Rails](https://www.theodinproject.com/paths/full-stack-ruby-on-rails)
 - :mortar_board: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
+
   - :mortar_board: [Ruby programming](#i-ruby-programming)
   - :mortar_board: [Database](#ii-database)
   - :mortar_board: [Ruby on Rails](#iii-ruby-on-rails)
   - :mortar_board: [HTML-CSS](#iv-html-css)
   - :mortar_board: [JavaScript](#v-javascript)
+
+
+
+## Bonus
+<details>
+<summary>Useful things for you</summary>
+<h3>Searching</h3>
+    <li><a href="https://devdocs.io">DevDocs</a> combines multiple API documentations in a fast, organized, and searchable interface.</li>
+    <li><a href="www.symbolhound.com">SymbolHound</a> is a search engine that doesn't ignore special characters. This means you can easily search for symbols like &, %, and π.</li>
+    <li><a href="https://overapi.com/">Collecting all cheatsheet</a></li>
+    <li><a href="https://devhints.io/">Devhints</a> is another collection cheatsheet</li>
+    <li><a href="https://www.ruby-toolbox.com">The Ruby Toolbox</a> is a catalog of all Rubygems that keeps track of popularity and health metrics to help you choose a reliable library</li>
+    <li><a href="https://codebeautify.org/">Code beauty</a> where you can lookup a lot of tools here.</li>
+<h3>Tools</h3>
+    <li><a href="https://rubular.com/">Ruby regex tool</a> test Ruby Regex</li>
+    <li><a href="https://caniuse.com/">Can I use</a> provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.</li>
+    <li><a href="https://autoprefixer.github.io/">Autoprefixer CSS</a></li>
+    <li><a href="https://readme.so/editor">Create README.md online</a></li>
+    <li><a href="https://www.toptal.com/developers/gitignore">Create gitignore</a></li>
+    <li><a href="https://rxresu.me/">Create resume</a></li>
+<h3>Useful Websites</h3>
+    <li><a href="https://rubystyle.guide/">Ruby best practice</a></li>
+    <li><a href="https://rails.rubystyle.guide">Rails best practice</a></li>
+    <li><a href="https://refactoring.guru/">Refactoring</a> is a source for Design Pattern, Refactor code</li>
+    <li><a href="https://devtut.github.io/">Devtut</a> has a lot of source to study</li>
+    <li><a href="www.goalkicker.com">Goal kicker</a> free programming books</li>
+    <li><a href="https://en.wikibooks.org/wiki/Ruby_Programming">Ruby wikibook</a></li>
+    <li><a href="https://www.keycdn.com/blog/web-development-tools">List web development tools</a></li>
+    <li><a href="https://andreasbm.github.io/web-skills/">Resources web skills</a></li>
+    <li><a href="https://html.com/resources/free-html-templates">Free HTML templates</a></li>
+    <li><a href="https://htmlreference.io">HTML reference</a></li>
+    <li><a href="https://cssgradient.io">CSS gradient</a></li>
+    <li><a href="https://cssreference.io">CSS reference</a></li>
+    <li><a href="https://css-tricks.com">Css-tricks</a></li>
+    <li><a href="https://ruby-hacking-guide.github.io">Ruby hacking guide</a></li>
+<h3>Problem-Solving Websites</h3>
+	<li><a href="https://codewars.com">Codewars</a></li>
+	<li><a href="https://hackerrank.com">Hackerank</a></li>
+	<li><a href="https://edabit.com">Edabit</a></li>
+	<li><a href="https://exercism.io">Exercism</a></li>
+	<li><a href="https://codinggame.com">Codinggame</a></li>
+	<li><a href="https://leetcode.com">Leetcode</a></li>
