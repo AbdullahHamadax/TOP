@@ -1,10 +1,10 @@
 # The Odin Project
 
-### What is The Odin Project?
+### What is The Odin Project
 
 > The Odin Project (TOP) is a **free** & **open-source** curriculum for learning **Web Development**.
 
-### Why I chose TOP?
+### Why I chose TOP
 
 > I chose TOP for several reasons. The first and foremost is that it's **free**. The second reason is how it sets you up realistically for the market, using **Git & Github, Linux, Terminal, etc**. The third and final reason is that it's not as **easy** as other resources. A big part of The Odin Project is about **figuring stuff out on your own**.
 
