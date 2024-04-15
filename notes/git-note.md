@@ -35,7 +35,7 @@ Benefits of git in addition to the general benefits of VCS:
 
 ### Collaboration example
 
-[image](https://www.codedex.io/images/git-github/exercise-6-shared-repo.png)
+[](https://www.codedex.io/images/git-github/exercise-6-shared-repo.png)
 
 
 ### Tools, courses and cheatsheets
