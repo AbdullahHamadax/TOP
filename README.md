@@ -6,6 +6,8 @@
 
 > Lastly, I'd like to thank [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) for making an awesome [roadmap](https://webdevsimplified.com/web-dev-roadmap.html) for **2024**!
 
+> (Be sure to check out this awesome gamified learn to code website!-> [Codédex](https://www.codedex.io/home))
+
 # The Odin Project
 
 ### What is The Odin Project
