@@ -8,6 +8,8 @@
 
 > (Be sure to check out this awesome gamified learn to code website!-> [Codédex](https://www.codedex.io/home))
 
+> (Here's my Codédex profile btw! -> [Aboodx](https://www.codedex.io/@Aboodx)
+
 # The Odin Project
 
 ### What is The Odin Project
