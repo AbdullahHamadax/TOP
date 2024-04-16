@@ -1,7 +1,8 @@
-# Acknowledgement
+# Acknowledgements
 
 > First, I'd like to thank [David Roark](https://github.com/David-Roark) for inspiring me to create this repo ( short for repository ). I'll be making drastical changes alongside translating his and making my own **notes** ❤️.
-
+> Second I'd like to thank TOP itself for making me love Web Development.
+> Lastly, I'd like to thank [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified) for making an awesome roadmap for **2024**!.
 
 # The Odin Project
 
