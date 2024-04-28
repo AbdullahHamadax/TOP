@@ -26,7 +26,7 @@
 
 ### Foundations
 
-![64%](https://progress-bar.dev/64)
+![66%](https://progress-bar.dev/64)
 
 # The Odin Project Roadmap & Courses
 
