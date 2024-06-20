@@ -11,7 +11,7 @@
 # The Odin Project
 
 
-![image](https://github.com/AbdullahHamadax/TOP/assets/40581069/28740089-879c-4abe-9981-b4ec24442834)
+![image](https://github.com/AbdullahHamadax/TOP/assets/40581069/11071bd0-37b2-498e-80a9-f5d3ce66c202)
 
 
 
